@@ -28,13 +28,6 @@ Hi!👋<br />
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron,gcp,github,gitlab,heroku,kubernetes,nginx,aws,azure,cassandra&perline=10" />
 
 <br />
-<br />
-<br />
-
-
- 
-<br />
-<br />
 
  <p>
   <a href="https://in.linkedin.com/in/akshay-dholakiya-665159263/">
