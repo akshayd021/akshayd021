@@ -9,7 +9,7 @@ Hi!👋<br />
  
  <br />
  
- email:mpandav1998@gmail.com
+ email:akshaydholakiya69@gmail.com
 
 <br />
 
@@ -32,27 +32,14 @@ Hi!👋<br />
 <br />
 
 
- <a href="https://stackoverflow.com/users/4981359/mayank-pandav">
-  <img 
-     src="https://stackoverflow.com/users/flair/4981359.png?theme=default" 
-     width="208" 
-     height="58" 
-     alt="profile for Matt Oestreich at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
-     title="profile for Matt Oestreich at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-   >
-</a>
+ 
 <br />
 <br />
 
  <p>
-  <a href="https://in.linkedin.com/in/mayankpandav">
-    <img src="https://img.shields.io/badge/mayankpandav-pandav-386938188?style=flat&logo=linkedin">
+  <a href="https://in.linkedin.com/in/akshay-dholakiya-665159263/">
+    <img src="https://img.shields.io/badge/akshay-dholakiya-665159263?style=flat&logo=linkedin">
   </a> &nbsp; 
-  <a href="https://twitter.com/MayankPandav">
-    <img src="https://img.shields.io/badge/@MayankPandav-pandav?style=flat&logo=twitter">
-  </a>
- <a href="https://medium.com/@mayakpandav">
-    <img src="https://img.shields.io/badge/mayakpandav-mayankpandav?style=flat&logo=medium">
-  </a>
+
  
 </p>
