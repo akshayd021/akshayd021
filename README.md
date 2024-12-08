@@ -19,7 +19,7 @@ Hi!👋<br />
 <img src="https://skillicons.dev/icons?i=html,css,js,,react,bootstrap,materialui,tailwind,nextjs,redux,regex,react,sass,styledcomponents&perline=10" />
 
 #### Back-end
-<img src="https://skillicons.dev/icons?i=,nodejs,express,nextjs,mongodb,,firebase&perline=10" />
+<img src="https://skillicons.dev/icons?i=,nodejs,express,nextjs,mongodb,,firebase,&perline=10" />
 
 #### Other tools
 <img src="https://skillicons.dev/icons?i=git,vscode,github,&perline=10" />
