@@ -2,7 +2,6 @@
 <h1>Available for Hire</h1>
 
 Hi!👋<br />
-“Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
 ⚡ Fun fact: I have a secret collection of old coins. <br />
  📫Connect me here:
