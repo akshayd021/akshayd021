@@ -15,7 +15,7 @@ Hi!👋<br />
 ### My weapons of choice:
 
 #### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,materialui,tailwind,nextjs,reactnative,redux,sass&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,materialui,tailwind,nextjs,react-native,redux,sass&perline=10" />
 
 #### Back-end
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,firebase&perline=10" />
